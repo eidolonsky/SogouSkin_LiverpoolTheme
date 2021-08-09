@@ -1,4 +1,4 @@
 # SogouSkin_LiverpoolTheme
-Sogou Input Skin og Liverpool Theme
+Sogou Input Skin of Liverpool Theme
 ---
 White-Red & Dark-Gold
